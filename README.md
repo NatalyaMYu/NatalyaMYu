@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Natalia Shatkova👋
+
+### I'm a Data Engineer!
+
+
+#### Languages and Tools:
 
 <!--
 **NatalyaMYu/NatalyaMYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
