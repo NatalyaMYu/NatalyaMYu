@@ -5,14 +5,14 @@
 <!--
 **NatalyaMYu/NatalyaMYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### I'm a Data Engineer!
+#### I'm a Data Engineer!
 
 
 - 🔭 I’m currently working on exploring OpenMetadata to improve metadata management.
 - 🌱 I’m currently learning optimization of data pipelines to improve performance and reduce processing time.
 
 
-#### Languages and Tools:
+### Languages and Tools:
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/)
